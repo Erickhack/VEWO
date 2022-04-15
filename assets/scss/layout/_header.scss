@@ -2,8 +2,8 @@
 // Header of the site/application
 // -----------------------------------------------------------------------------
 
-header {
-  max-height: 20%;
+.header-cover {
+  max-height: 30%;
   .container-maket {
     position: relative;
     overflow: hidden;
@@ -17,4 +17,8 @@ header {
       font-weight: 600;
     }
   }
+}
+
+.header-profile {
+  max-height: 30%;
 }
