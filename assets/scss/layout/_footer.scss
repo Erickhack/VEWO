@@ -3,6 +3,7 @@
 // -----------------------------------------------------------------------------
 footer {
   position: relative;
+  height: 50px;
   .nav-button-line {
     position: fixed;
     bottom: 0;
@@ -10,6 +11,7 @@ footer {
     background-color: white;
     display: flex;
     width: 100%;
+    height: inherit;
     justify-content: space-around;
     list-style: none;
     padding: 0;
